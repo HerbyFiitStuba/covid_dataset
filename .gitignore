@@ -1,0 +1,14 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset folder (generated locally)
+data/
+
+# Model checkpoints
+#*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
